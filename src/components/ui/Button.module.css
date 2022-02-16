@@ -1,0 +1,112 @@
+.btnPrimary {
+  margin: 10px 10px;
+  padding: 5px;
+  font-size: 1rem;
+  transition: all 0.3s linear;
+  background-color: rgb(109, 0, 0);
+  border: 1.5px solid rgb(109, 0, 0);
+  color: aliceblue;
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+.btnPrimary:hover {
+  background-color: rgba(240, 248, 255, 0.5);
+  border: 1.5px solid rgb(109, 0, 0);
+  color: rgb(109, 0, 0);
+}
+.btnBlack {
+  margin-top: 10px, 10px;
+  padding: 5px;
+  font-size: 1rem;
+  transition: all 0.3s linear;
+  background-color: rgb(7, 0, 0);
+  border: 1.5px solid rgb(7, 0, 0);
+  color: aliceblue;
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+.btnBlack:hover {
+  background-color: aliceblue;
+  border: 1.5px solid rgb(7, 0, 0);
+  color: rgb(7, 0, 0);
+}
+.btnGreen {
+  margin-top: 10px 10px;
+  padding: 5px;
+  font-size: 1rem;
+  transition: all 0.3s linear;
+  background-color: rgb(0, 179, 45);
+  border: 1.5px solid rgb(0, 179, 45);
+  color: rgb(237, 246, 253);
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+.btnGreen:hover {
+  background-color: rgb(237, 246, 253);
+  border: 1.5px solid rgb(0, 179, 45);
+  color: rgb(0, 179, 45);
+}
+.btnRed {
+  margin-top: 10px 10px;
+  padding: 5px;
+  font-size: 1rem;
+  transition: all 0.3s linear;
+  background-color: rgb(255, 69, 36);
+  border: 1.5px solid rgb(255, 69, 36);
+  color: rgb(237, 246, 253);
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+.btnRed:hover {
+  background-color: rgb(237, 246, 253);
+  border: 1.5px solid rgb(255, 69, 36);
+  color: rgb(255, 69, 36);
+}
+.btnBlue {
+  margin-top: 10px 10px;
+  padding: 5px;
+  font-size: 1rem;
+  transition: all 0.3s linear;
+  background-color: rgb(36, 160, 255);
+  border: 1.5px solid rgb(36, 160, 255);
+  color: white;
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+.btnBlue:hover {
+  background-color: white;
+  border: 1.5px solid rgb(36, 160, 255);
+  color: rgb(36, 160, 255);
+}
+.btnYellow {
+  margin-top: 10px 10px;
+  padding: 5px;
+  font-size: 1rem;
+  transition: all 0.3s linear;
+  background-color: rgb(189, 255, 36);
+  border: 1.5px solid rgb(189, 255, 36);
+  color: rgb(39, 38, 38);
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+.btnYellow:hover {
+  background-color: rgb(39, 38, 38);
+  border: 1.5px solid rgb(189, 255, 36);
+  color: rgb(189, 255, 36);
+}
+.btn {
+  margin-top: 10px, 10px;
+  padding: 5px;
+  font-size: 1rem;
+  transition: all 0.3s linear;
+  background-color: rgb(7, 0, 0);
+  border: 1.5px solid rgb(7, 0, 0);
+  color: aliceblue;
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+.btn:hover {
+  background-color: aliceblue;
+  border: 1.5px solid rgb(7, 0, 0);
+  color: rgb(7, 0, 0);
+}

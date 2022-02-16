@@ -1,0 +1,30 @@
+.mainContainer {
+  text-align: center;
+  align-items: center;
+}
+.mainContainer h2 {
+  color: rgb(57, 139, 211);
+}
+.loading {
+  align-items: center;
+  margin-left: 35vw;
+  color: aliceblue;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 25vh;
+  display: flex;
+}
+.periods {
+  animation: animType 0.9s;
+  animation-iteration-count: infinite;
+  width: 3ch;
+  text-align: left;
+}
+@keyframes animType {
+  0% {
+    width: 0ch;
+  }
+  100% {
+    width: 3ch;
+  }
+}

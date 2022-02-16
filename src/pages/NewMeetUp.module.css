@@ -1,0 +1,12 @@
+.mainContainer {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  align-items: center;
+  width: 70%;
+  height: 100%;
+  z-index: 999999;
+}
+.mainContainer h2 {
+  color: rgb(57, 139, 211);
+}
